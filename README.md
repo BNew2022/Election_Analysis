@@ -31,7 +31,7 @@ The analysis of the election show that:
 The purpose of this audit is to gain insight into the voter turnout, by county, as well as analyze the number of votes cast for each candidate.
 
 ### Election Audit Results
-    - Total number of votes cast were 369,711.
+    * Total number of votes cast were 369,711.
     - Breakdown by Precinct:
         - Jefferson had 10.51% of the vote and xxx votes cast.
         - Denver had 82.78% of the vote and xxx votes cast.
