@@ -44,5 +44,5 @@ The purpose of this audit is to gain insight into the voter turnout by county, a
 - The winner of the election was Diana DeGette with 73.8% of the vote and 272,892 votes.
 
 ## Election Audit Summary   
-By creating this code, we can no easily re-use this program to analyze future election results.  Since we are reading data from a .csv file, as long as the .csv comes in the same file configuration, we can re-use our work.  Minor modifications may be required to clean and reorganize the data in the .csv file if it comes in a different format or simply change the column number that we are reading the information from.
+By creating this code, we can no easily re-use this program to analyze future election results.  Since we are reading data from a .csv file, as long as the .csv comes in the same file configuration, we can re-use our work.  Minor modifications may be required to clean and reorganize the data in the .csv file if it comes in a different format or simply change the column number in the code that we are reading the information from.
 
