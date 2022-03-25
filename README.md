@@ -31,17 +31,17 @@ The analysis of the election show that:
 The purpose of this audit is to gain insight into the voter turnout, by county, as well as analyze the number of votes cast for each candidate.
 
 ### Election Audit Results
-    * Total number of votes cast were 369,711.
-    - Breakdown by Precinct:
-        - Jefferson had 10.51% of the vote and xxx votes cast.
-        - Denver had 82.78% of the vote and xxx votes cast.
-        - Arapahoe had 6.71% of the vote and xxx votes cast.
-    - Denver was the county with the most number of votes cast.
-    - Breakdown by Candidate:
-        - Charles Casper Stockham won 23.0% of the popular vote with 85,213 votes cast in his favour.
-        - Diana DeGette won 73.8% of the popular vote with 272,892 cast in her favour.
-        - Raymon Anthony Doane won 3.1% of the popular vote with 11,606 cast in his favour.
-    - The winner of the election was Diana DeGette with 73.8% of the vote with 272,892 votes.
+- Total number of votes cast were 369,711.
+- Breakdown by Precinct:
+    - Jefferson had 10.51% of the vote and xxx votes cast.
+    - Denver had 82.78% of the vote and xxx votes cast.
+    - Arapahoe had 6.71% of the vote and xxx votes cast.
+- Denver was the county with the most number of votes cast.
+- Breakdown by Candidate:
+    - Charles Casper Stockham won 23.0% of the popular vote with 85,213 votes cast in his favour.
+    - Diana DeGette won 73.8% of the popular vote with 272,892 cast in her favour.
+    - Raymon Anthony Doane won 3.1% of the popular vote with 11,606 cast in his favour.
+- The winner of the election was Diana DeGette with 73.8% of the vote with 272,892 votes.
 
 ## Election Audit Summary   
 By creating this code, we can no easily re-use this program to analyze future election results.  Since we are reading data from a .csv file, as long as the .csv comes in the same file configuration, we can re-use our work.  Minor modifications may be required to clean and reorganize the data in the .csv file if it comes in a different format or simply change the column number that we are reading the information from.
