@@ -33,9 +33,9 @@ The purpose of this audit is to gain insight into the voter turnout by county, a
 ### Election Audit Results
 - Total number of votes cast were 369,711.
 - Breakdown by Precinct:
-    - Jefferson had 10.51% of the vote and xxx votes cast.
-    - Denver had 82.78% of the vote and xxx votes cast.
-    - Arapahoe had 6.71% of the vote and xxx votes cast.
+    - Jefferson had 10.51% of the vote and 38,855 votes cast.
+    - Denver had 82.78% of the vote and 305,055 votes cast.
+    - Arapahoe had 6.71% of the vote and 24,801 votes cast.
 - Denver was the county with the most number of votes cast.
 - Breakdown by Candidate:
     - Charles Casper Stockham won 23.0% of the popular vote with 85,213 votes cast in his favour.
